@@ -1,17 +1,17 @@
 {
-    "name": "beyondcode/laravel-masked-db-dump",
+    "name": "adobi/laravel-masked-db-dump",
     "description": "Dump masked information from your database",
     "keywords": [
-        "beyondcode",
+        "adobi",
         "laravel-masked-db-dump"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-masked-db-dump",
+    "homepage": "https://github.com/adobi/laravel-masked-db-dump",
     "license": "MIT",
     "authors": [
         {
-            "name": "Marcel Pociot",
-            "email": "marcel@beyondco.de",
-            "homepage": "https://beyondcode.de",
+            "name": "Attila Dobi",
+            "email": "hello@adobi.hu",
+            "homepage": "http://adobi.hu",
             "role": "Developer"
         }
     ],
