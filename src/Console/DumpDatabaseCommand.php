@@ -13,6 +13,8 @@ class DumpDatabaseCommand extends Command
 
     public function handle()
     {
+        ini_set('memory_limit', -1);
+
         $definition = config('masked-dump.' . $this->option('definition'));
         $definition->load();
 
