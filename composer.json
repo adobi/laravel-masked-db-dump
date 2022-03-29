@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "doctrine/dbal": "^2.0|^3.0",
-        "fakerphp/faker": "1.15",
+        "fzaninotto/faker": "^1.4",
         "illuminate/console": "^7.0|^8.0|^9.0",
         "illuminate/support": "^7.0|^8.0|^9.0"
     },
